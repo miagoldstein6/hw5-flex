@@ -119,7 +119,7 @@ Identify the proper selector to style ONLY those header elements that are direct
         justify-content: space-between;
     }
 
-    body > header:first-of-type{
+    body > header{
         position: sticky;
         top: 0;
     }
